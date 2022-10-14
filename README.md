@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bailey-Moir
-- 👀 I’m interested in typescript, Java, and C#.
-- 🌱 I’m currently learning how to make a (full) game with unity. I have attempted this many times in the past but never finishsed.
+- 👀 I’m interested in Typescript, C++, and C#.
+- 🌱 I'm currently making a note taking app and a game engine
 - 📫 You can reach me at bmo4801@stacmail.net.
 
 <!---
